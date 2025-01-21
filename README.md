@@ -1,25 +1,26 @@
-# Table des matières
+# Table of Contents
+
 - [Introduction](#introduction)
-- [A propos de moi](#a-propos-de-moi)
-- [Projets](#projets)
-- [Compétences](#competences)
-- [Outils](#outils)
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Tools](#tools)
 - [Contact](#contact)
 
 # Introduction
 Bienvenue sur mon portfolio ! 
 
-## À propos de moi
+## About Me
 - Basé à Limoges, France
 - Étudiant en première année de BUT Informatique à l'IUT du Limousin
 - Titulaire d'un BUT en Informatique et d'un baccalauréat
 
-## Projets
+## Projects
 
-## Compétences
+## Skills
 - Langages de programmation : Python, SQL
 
-## Outils
+## Tools
 - Visual Studio Code
 - GitHub
 

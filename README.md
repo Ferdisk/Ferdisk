@@ -1,50 +1,47 @@
-# Table of Contents
+# Hi there, I'm Ferdina! 👋
 
-- [Introduction](#introduction)
-- [About Me](#about-me)
-- [Projects](#projects)
-- [🔧 Technologies & Tools](#-🔧-Technologies-&-Tools)
-- [Tools](#tools)
-- [Contact](#contact)
+**Computer Science Student & Passionate Developer**
+*Based in Condat-Sur-Vienne, France* 🇫🇷
 
-# Introduction
-Bienvenue sur mon portfolio ! 
+Currently a 2nd-year student in **BUT Informatique**, I am looking for a **software development internship** to design robust and user-centric solutions.
 
-## About Me
-- Basé à Limoges, France
-- Étudiant en première année de BUT Informatique à l'IUT du Limousin
-- Titulaire d'un BUT en Informatique et d'un baccalauréat
+---
 
-## Projects
+## 📖 Table of Contents
 
-## 🔧 Technologies & Tools
+- [🚀 Featured Projects](#-featured-projects)
+- [🛠 Tech Stack](#-tech-stack)
+- [📫 Let's Connect](#-lets-connect)
 
-**Programming Languages:**
+---
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin)
+## 🚀 Featured Projects
 
-**Tools and Services:**
+### ["Latice" Board Game](https://github.com/hchevaldonnet/latice)
+> **Java • JavaFX • Maven**
+Design of a complete strategy game with a graphical interface and AI. Built with strict OOP architecture and SOLID principles.
 
-![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/SCM-Git-informational?style=flat&logo=git)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea)
+### [Form Management Site](https://github.com/Ferdisk/SAE-BUT-2)
+> **PHP • SQL • HTML/CSS • Figma**
+Full Stack team project: from UI design on Figma to relational database management and Back-end development.
 
-## Contact
+### [Smart Mini-Games](https://github.com/Ferdisk/SA-1.02---Comparaison-d-approches-algorithmiques.git)
+> **Python**
+A suite of console-based games integrating AI robots with varying difficulty levels and modular architecture.
 
+---
 
-<!---
-Ferdisk/Ferdisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdina-adrachi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdina.adrachi@etu.unilim.fr)

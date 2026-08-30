@@ -1,66 +1,66 @@
-# Hi there, I'm Ferdina! 👋
+# Bonjour, je suis Ferdina 👋
 
-**Computer Science Student & Developer**
-*Based in Condat-Sur-Vienne, France* 🇫🇷
+**Étudiant en informatique et développeur**
+*Condat-sur-Vienne, France* 🇫🇷
 
-Third-year student in **BUT Informatique** at IUT du Limousin, looking for a **one-year apprenticeship in software development** — *contrat d'apprentissage*, **September 2026 to September 2027**, in Limoges or the Limousin area.
+Étudiant en troisième année de **BUT Informatique** à l'IUT du Limousin, je recherche une **alternance d'un an en développement** — contrat d'apprentissage, **de septembre 2026 à septembre 2027**, à Limoges ou en Limousin.
 
-What I want to build: software that is useful, well-made, and that I can be proud of.
-
----
-
-## 📖 Table of Contents
-
-- [💼 Experience](#-experience)
-- [🚀 Featured Projects](#-featured-projects)
-- [🛠 Tech Stack](#-tech-stack)
-- [📫 Let's Connect](#-lets-connect)
+Ce que je veux construire : des logiciels utiles, bien faits, et dont je puisse être fier.
 
 ---
 
-## 💼 Experience
+## 📖 Sommaire
 
-### Python Developer — GCE CORP, Limoges
-> **April – May 2026 · 8-week internship · sole developer on the project**
-
-Automated a market-analysis process that an e-commerce SME was running by hand across four Amazon marketplaces.
-
-- Took over an 865-line codebase held in two files, API key in plain text, and restructured it into 25+ modules — then covered it with 98 unit tests running in mock mode, without burning any API quota.
-- Built a three-stage analysis pipeline and its continuous mode, deployed to production on a Linux VM (Google Cloud, `systemd` services).
-- Delivered a Streamlit dashboard the team uses daily: opportunity tracking, authentication, file administration.
-- Cut consumption of an API capped at 3,671 tokens — measured the real cost of each field, moved filters server-side, cached what could be cached.
-
-*The code is not public: ownership was transferred to the client at the end of the internship.*
+- [💼 Expérience](#-expérience)
+- [🚀 Projets mis en avant](#-projets-mis-en-avant)
+- [🛠 Technologies](#-technologies)
+- [📫 Me contacter](#-me-contacter)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Expérience
 
-### [Software Architecture in Rust](https://github.com/Ferdisk/R4.01-Architecture-logicielle)
+### Développeur Python — GCE CORP, Limoges
+> **Avril – mai 2026 · stage de 8 semaines · seul développeur du projet**
+
+Automatisation d'une analyse de marché que l'équipe menait à la main sur quatre marketplaces Amazon.
+
+- Repris une base de code de 865 lignes tenant en deux fichiers, clé d'API en clair, pour la restructurer en plus de 25 modules — puis la couvrir par 98 tests unitaires exécutés en mode simulé, sans consommer de quota.
+- Conçu un pipeline d'analyse en trois étapes et son mode continu, déployé en production sur une VM Linux (Google Cloud, services `systemd`).
+- Livré à l'entreprise un tableau de bord Streamlit utilisé au quotidien : suivi des opportunités, authentification, administration des fichiers.
+- Réduit la consommation d'une API plafonnée à 3 671 tokens — coût réel de chaque champ mesuré, filtres déportés côté serveur, mise en cache de ce qui pouvait l'être.
+
+*Le code n'est pas public : la propriété du projet a été transférée au client à la fin du stage.*
+
+---
+
+## 🚀 Projets mis en avant
+
+### [Architecture logicielle en Rust](https://github.com/Ferdisk/R4.01-Architecture-logicielle)
 > **Rust • Cargo**
-A guided refactoring in 11 successive versions, from spaghetti code to a layered architecture: domain, storage, use cases, CLI and TCP interfaces. Seven design notes document each step.
+Une machine de vote électronique refactorée en dix versions successives, du plat de spaghettis à une architecture en couches : domaine, stockage, cas d'usage, interfaces, services stdio/UDP/TCP. Sept notes de conception documentent chaque étape.
 
-### [Questionnaire Web App](https://github.com/Ferdisk/SAE-BUT-2)
+### [Outil de questionnaires](https://github.com/Ferdisk/SAE-BUT-2)
 > **PHP • MariaDB • HTML/CSS/JS • Figma**
-Team project for IUT du Limousin: replacing the paper questionnaires filled in after internship defences. I handled the back-end and the relational database design.
+Projet d'équipe pour l'IUT du Limousin : remplacer par une application web les questionnaires papier remplis après les soutenances de stage. J'ai pris en charge le back-end et la conception de la base relationnelle.
 
-### ["Latice" Board Game](https://github.com/hchevaldonnet/latice)
+### [Jeu de plateau « Latice »](https://github.com/hchevaldonnet/latice)
 > **Java • JavaFX • Maven**
-A complete strategy game with a graphical interface and game AI. Strict OOP architecture, SOLID principles, refactoring.
+Un jeu de stratégie complet avec interface graphique et IA de jeu. Architecture orientée objet stricte, principes SOLID, refactoring.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
-**Languages**
+**Langages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools & environments**
+**Outils et environnements**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdina-adrachi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdina.adrachi@gmail.com)

@@ -3,7 +3,7 @@
 **Étudiant en informatique et développeur**
 *Condat-sur-Vienne, France* 🇫🇷
 
-Étudiant en troisième année de **BUT Informatique** à l'IUT du Limousin, je recherche une **alternance d'un an en développement** — contrat d'apprentissage, **de septembre 2026 à septembre 2027**, à Limoges ou en Limousin.
+Étudiant en troisième année de **BUT Informatique** à l'IUT du Limousin, je recherche un **stage de fin d'études en développement** — 14 à 16 semaines, **entre le 22 février et le 12 juin 2027**, à Limoges ou en Limousin.
 
 Ce que je veux construire : des logiciels utiles, bien faits, et dont je puisse être fier.
 
@@ -25,7 +25,7 @@ Ce que je veux construire : des logiciels utiles, bien faits, et dont je puisse 
 
 Automatisation d'une analyse de marché que l'équipe menait à la main sur quatre marketplaces Amazon.
 
-- Repris une base de code de 865 lignes tenant en deux fichiers, clé d'API en clair, pour la restructurer en plus de 25 modules — puis la couvrir par 98 tests unitaires exécutés en mode simulé, sans consommer de quota.
+- Repris une base de code de 865 lignes tenant en deux fichiers, clé d'API en clair, pour la restructurer en 44 modules — puis la couvrir par 144 tests unitaires exécutés en mode simulé, sans consommer de quota.
 - Conçu un pipeline d'analyse en trois étapes et son mode continu, déployé en production sur une VM Linux (Google Cloud, services `systemd`).
 - Livré à l'entreprise un tableau de bord Streamlit utilisé au quotidien : suivi des opportunités, authentification, administration des fichiers.
 - Réduit la consommation d'une API plafonnée à 3 671 tokens — coût réel de chaque champ mesuré, filtres déportés côté serveur, mise en cache de ce qui pouvait l'être.
@@ -42,18 +42,18 @@ Une machine de vote électronique refactorée en dix versions successives, du pl
 
 ### [Outil de questionnaires](https://github.com/Ferdisk/SAE-BUT-2)
 > **PHP • MariaDB • HTML/CSS/JS • Figma**
-Projet d'équipe pour l'IUT du Limousin : remplacer par une application web les questionnaires papier remplis après les soutenances de stage. J'ai pris en charge le back-end et la conception de la base relationnelle.
+Projet d'équipe pour l'IUT du Limousin : remplacer par une application web les questionnaires papier remplis après les soutenances de stage. J'ai surtout écrit en JavaScript le constructeur de questionnaires : QCM, échelles de notation, sous-questions, validation du formulaire. J'ai aussi participé au back-end et à la conception de la base relationnelle.
 
 ### [Jeu de plateau « Latice »](https://github.com/hchevaldonnet/latice)
 > **Java • JavaFX • Maven**
-Un jeu de stratégie complet avec interface graphique et IA de jeu. Architecture orientée objet stricte, principes SOLID, refactoring.
+Projet d'équipe à quatre : j'ai développé la version console, les règles du jeu (calcul des points, cases spéciales), les tests unitaires et le refactoring. Jouable en console et en JavaFX. Principes SOLID.
 
 ---
 
 ## 🛠 Technologies
 
 **Langages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Outils et environnements**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
